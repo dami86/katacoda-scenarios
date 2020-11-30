@@ -34,7 +34,9 @@
     }
   },
    "environment": {
-        "uilayout": "vscode-terminal-split"
+       "hideintro": true,
+       "hidefinish": true,
+       "uilayout": "terminal"
     },
   "backend": {
     "imageid": "php"
