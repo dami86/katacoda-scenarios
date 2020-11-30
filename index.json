@@ -1,5 +1,4 @@
 {
-  "noindex": true,
   "title": "Symfony create entity, form, controller and view page",
   "description": "easy",
   "difficulty": "Beginner",
@@ -34,11 +33,10 @@
       "text": "finish.md"
     }
   },
-   "environment": {
-       "hideintro": true,
-       "hidefinish": true,
-       "uilayout": "terminal"
-    },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
   "backend": {
     "imageid": "ubuntu:2004"
   }
